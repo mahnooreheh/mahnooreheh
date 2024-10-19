@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Mahnoor!
+- 👀Interested in Data Science
+- 🌱 Learning Python, DSA, Statistics
+- 📫 @mahnooorsmail@gmail.com
+- 😄 she/her
+- ⚡ I love cats ^_^

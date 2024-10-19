@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahnoor!
-- 👀Interested in Data Science
+- 👀 Interested in Data Science & ML
 - 🌱 Learning Python, DSA, Statistics
 - 📫 @mahnooorsmail@gmail.com
 - 😄 she/her
